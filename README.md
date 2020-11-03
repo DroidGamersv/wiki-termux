@@ -4,7 +4,7 @@
 <a href="#"><img title="wiki" src="https://emailspoofbyharris.000webhostapp.com/pro/wiki.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DeepSociety"><img title="Author" src="https://img.shields.io/badge/Author-DeepSociety-svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DroidGamersv"><img title="Author" src="https://img.shields.io/badge/Author-DroidGamersv-svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 
